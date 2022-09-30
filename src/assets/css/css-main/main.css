@@ -1,0 +1,79 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.section-form{
+    margin-right: 100px;
+    width: 49%;
+    height: 700px;
+    border-radius: 45px;
+    background-color: #24262bb9;
+    font-family: 'Dosis', sans-serif;
+    color: aliceblue;
+    filter:drop-shadow(10px 10px 100px  black);
+
+}
+
+.title-form{
+    margin: 30px 10px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Staatliches', cursive;
+}
+
+.terms{
+    text-align: center;
+    color: #DC4981;
+}
+.terms a{
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.input-50{
+    width: 46.7%;
+    margin: 20px;
+    padding: 10px;
+}
+
+.input-100{
+    width: 95%;
+    margin: 20px;
+    padding: 10px;
+}
+
+.form-cat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.btn-Submit{
+    width: 260px;
+    height: 50px;
+    background-color: aliceblue;
+    color: #DC4981;
+    transition: all .7s;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-Submit:hover{
+    transition: all .7s;
+    background-color: #DC4981;
+    color: aliceblue;
+}

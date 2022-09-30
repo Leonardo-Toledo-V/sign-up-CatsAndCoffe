@@ -1,0 +1,11 @@
+.image-cat{
+    margin-left: 100px;
+    width: 70%;
+    background-size: cover;
+    border-radius: 45px;
+    filter:drop-shadow(10px 10px 100px  black);
+}
+
+.div-cat{
+    width: 50%;
+}
