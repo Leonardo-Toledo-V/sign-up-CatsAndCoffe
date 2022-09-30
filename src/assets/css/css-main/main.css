@@ -39,12 +39,14 @@
     width: 46.7%;
     margin: 20px;
     padding: 10px;
+    font-family: 'Staatliches', cursive;
 }
 
 .input-100{
     width: 95%;
     margin: 20px;
     padding: 10px;
+    font-family: 'Staatliches', cursive;
 }
 
 .form-cat{
